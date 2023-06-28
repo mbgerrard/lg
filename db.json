@@ -1,17 +1,21 @@
 {
-  "Types": [
-      "A", 
-	  "B",
-	  "C"
+  "Parents": [
+	{"1":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}},
+	{"2":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}}
   ],
-  "Categories": [
-      "X", 
-	  "Y",
-	  "Z"
+  "Selected": [
+	{"3":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}}
   ],
-  "Subjects": [
-      "D", 
-	  "E",
-	  "F"
+  "Children": [
+	{"4":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}},
+	{"5":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}}
+  ],
+  "PossibleParents": [
+	{"6":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}},
+	{"7":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}}
+  ],
+  "PossibleChildren": [
+	{"8":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}},
+	{"9":{"Type": "Asd", "Title": "Asd","Subject": "Asd","Specification": "Asd"}}
   ]
 }
