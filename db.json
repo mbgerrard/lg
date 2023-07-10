@@ -109,21 +109,7 @@
 "PossibleParents": 
 [
 
-{
-"Id": "103",
-"Class": "StakeholderReq",
-"Title": "Title: 103",
-"Detail": "Detail: 103",
-"Subject": "MKT function",
-"Category": "Ease of use",
-"VerificationMethod": "",
-"TagsTrue": [],
-"TagsFalse": [],
-"ParentCount": 0,
-"ChildCount": 1,
-"Seq": 3
-}
-,
+
 {
 "Id": "105",
 "Class": "TechReq",
