@@ -108,21 +108,7 @@
 
 "PossibleParents": 
 [
-{
-"Id": "101",
-"Class": "StakeholderReq",
-"Title": "Title: 101",
-"Detail": "Detail: 101",
-"Subject": "User",
-"Category": "Unboxing",
-"VerificationMethod": "",
-"TagsTrue": [],
-"TagsFalse": [],
-"ParentCount": 0,
-"ChildCount": 2,
-"Seq": 1
-}
-,
+
 {
 "Id": "103",
 "Class": "StakeholderReq",
