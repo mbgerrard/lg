@@ -2,7 +2,7 @@
 "Selected": 
 {
 "Id": "106",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 106",
 "Detail": "Detail: 106",
 "Subject": "Device",
@@ -21,7 +21,7 @@
 [
 {
 "Id": "102",
-"Class": "StakeholderReq",
+"Class": "STAKEHOLDER_REQ",
 "Title": "Title: 102",
 "Detail": "Detail: 102",
 "Subject": "User",
@@ -36,7 +36,7 @@
 ,
 {
 "Id": "104",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 104",
 "Detail": "Detail: 104",
 "Subject": "Device",
@@ -55,7 +55,7 @@
 [
 {
 "Id": "110",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 110",
 "Detail": "Detail: 110",
 "Subject": "Needle",
@@ -70,7 +70,7 @@
 ,
 {
 "Id": "111",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 111",
 "Detail": "Detail: 111",
 "Subject": "Needle",
@@ -85,7 +85,7 @@
 ,
 {
 "Id": "114",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 114",
 "Detail": "Detail: 114",
 "Subject": "Needle",
@@ -105,7 +105,7 @@
 
 {
 "Id": "101",
-"Class": "StakeholderReq",
+"Class": "STAKEHOLDER_REQ",
 "Title": "Title: 101",
 "Detail": "Detail: 101",
 "Subject": "User",
@@ -120,7 +120,7 @@
 ,
 {
 "Id": "103",
-"Class": "StakeholderReq",
+"Class": "STAKEHOLDER_REQ",
 "Title": "Title: 103",
 "Detail": "Detail: 103",
 "Subject": "MKT function",
@@ -135,7 +135,7 @@
 ,
 {
 "Id": "105",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 105",
 "Detail": "Detail: 105",
 "Subject": "Controller",
@@ -150,7 +150,7 @@
 ,
 {
 "Id": "107",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 107",
 "Detail": "Detail: 107",
 "Subject": "Device",
@@ -165,7 +165,7 @@
 ,
 {
 "Id": "108",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 108",
 "Detail": "Detail: 108",
 "Subject": "Device",
@@ -180,7 +180,7 @@
 ,
 {
 "Id": "109",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 109",
 "Detail": "Detail: 109",
 "Subject": "Pod",
@@ -199,7 +199,7 @@
 [
 {
 "Id": "107",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 107",
 "Detail": "Detail: 107",
 "Subject": "Device",
@@ -214,7 +214,7 @@
 ,
 {
 "Id": "108",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 108",
 "Detail": "Detail: 108",
 "Subject": "Device",
@@ -229,7 +229,7 @@
 ,
 {
 "Id": "109",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 109",
 "Detail": "Detail: 109",
 "Subject": "Pod",
@@ -244,7 +244,7 @@
 ,
 {
 "Id": "112",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 112",
 "Detail": "Detail: 112",
 "Subject": "Pod",
@@ -259,7 +259,7 @@
 ,
 {
 "Id": "113",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 113",
 "Detail": "Detail: 113",
 "Subject": "Needle",
@@ -274,7 +274,7 @@
 ,
 {
 "Id": "115",
-"Class": "TechReq",
+"Class": "TECH_REQ",
 "Title": "Title: 115",
 "Detail": "Detail: 115",
 "Subject": "Pod",
