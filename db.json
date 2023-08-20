@@ -8,8 +8,12 @@
 "Subject": "Device",
 "Category": "Function",
 "VerificationMethod": "Demonstration",
-"TagsTrue": ["RCM"],
-"TagsFalse": ["Usability"],
+"Tags":
+{
+  "RCM":true, 
+  "Usability":false
+}
+,
 "ParentCount": 2,
 "ChildCount": 3,
 "Seq": 6
@@ -27,8 +31,11 @@
 "Subject": "User",
 "Category": "Training",
 "VerificationMethod": "",
-"TagsTrue": [],
-"TagsFalse": [],
+  "Tags":
+{
+ 
+}
+,
 "ParentCount": 0,
 "ChildCount": 2,
 "Seq": 2
@@ -42,8 +49,12 @@
 "Subject": "Device",
 "Category": "Environmental",
 "VerificationMethod": "Demonstration",
-"TagsTrue": ["Usability"],
-"TagsFalse": ["RCM"],
+"Tags":
+{
+  "RCM":false, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 1,
 "Seq": 4
@@ -61,8 +72,12 @@
 "Subject": "Needle",
 "Category": "Durability",
 "VerificationMethod": "Demonstration",
-"TagsTrue": ["Usability"],
-"TagsFalse": ["RCM"],
+  "Tags":
+{
+  "RCM":false, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 0,
 "Seq": 10
@@ -76,8 +91,12 @@
 "Subject": "Needle",
 "Category": "Serviceability",
 "VerificationMethod": "Inspection",
-"TagsTrue": [],
-"TagsFalse": ["Usability", "RCM"],
+  "Tags":
+{
+  "RCM":false, 
+  "Usability":false
+}
+,
 "ParentCount": 1,
 "ChildCount": 0,
 "Seq": 11
@@ -91,8 +110,12 @@
 "Subject": "Needle",
 "Category": "Performance",
 "VerificationMethod": "Test",
-"TagsTrue": ["Usability", "RCM"],
-"TagsFalse": [],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 0,
 "Seq": 14
@@ -111,8 +134,10 @@
 "Subject": "User",
 "Category": "Unboxing",
 "VerificationMethod": "",
-"TagsTrue": [],
-"TagsFalse": [],
+  "Tags":
+{
+}
+,
 "ParentCount": 0,
 "ChildCount": 2,
 "Seq": 1
@@ -126,8 +151,10 @@
 "Subject": "MKT function",
 "Category": "Ease of use",
 "VerificationMethod": "",
-"TagsTrue": [],
-"TagsFalse": [],
+  "Tags":
+{
+}
+,
 "ParentCount": 0,
 "ChildCount": 1,
 "Seq": 3
@@ -141,8 +168,12 @@
 "Subject": "Controller",
 "Category": "Serviceability",
 "VerificationMethod": "Analysis",
-"TagsTrue": ["Usability", "RCM"],
-"TagsFalse": [],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 1,
 "Seq": 5
@@ -156,8 +187,12 @@
 "Subject": "Device",
 "Category": "Performance",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["RCM"],
-"TagsFalse": ["Usability"],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":false
+}
+,
 "ParentCount": 1,
 "ChildCount": 1,
 "Seq": 7
@@ -171,8 +206,12 @@
 "Subject": "Device",
 "Category": "Transportation",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["Usability"],
-"TagsFalse": ["RCM"],
+  "Tags":
+{
+  "RCM":false, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 2,
 "Seq": 8
@@ -186,8 +225,12 @@
 "Subject": "Pod",
 "Category": "Transportation",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["RCM"],
-"TagsFalse": ["Usability"],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":false
+}
+,
 "ParentCount": 1,
 "ChildCount": 1,
 "Seq": 9
@@ -205,8 +248,12 @@
 "Subject": "Device",
 "Category": "Performance",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["RCM"],
-"TagsFalse": ["Usability"],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":false
+}
+,
 "ParentCount": 1,
 "ChildCount": 1,
 "Seq": 7
@@ -220,8 +267,12 @@
 "Subject": "Device",
 "Category": "Transportation",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["Usability"],
-"TagsFalse": ["RCM"],
+  "Tags":
+{
+  "RCM":false, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 2,
 "Seq": 8
@@ -235,8 +286,12 @@
 "Subject": "Pod",
 "Category": "Transportation",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["RCM"],
-"TagsFalse": ["Usability"],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":false
+}
+,
 "ParentCount": 1,
 "ChildCount": 1,
 "Seq": 9
@@ -250,8 +305,12 @@
 "Subject": "Pod",
 "Category": "Durability",
 "VerificationMethod": "Inspection",
-"TagsTrue": ["Usability", "RCM"],
-"TagsFalse": [],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 0,
 "Seq": 12
@@ -265,8 +324,12 @@
 "Subject": "Needle",
 "Category": "Performance",
 "VerificationMethod": "Test",
-"TagsTrue": ["Usability"],
-"TagsFalse": ["RCM"],
+  "Tags":
+{
+  "RCM":false, 
+  "Usability":true
+}
+,
 "ParentCount": 1,
 "ChildCount": 0,
 "Seq": 13
@@ -280,8 +343,12 @@
 "Subject": "Pod",
 "Category": "Function",
 "VerificationMethod": "Analysis",
-"TagsTrue": ["RCM"],
-"TagsFalse": ["Usability"],
+  "Tags":
+{
+  "RCM":true, 
+  "Usability":false
+}
+,
 "ParentCount": 2,
 "ChildCount": 0,
 "Seq": 15
