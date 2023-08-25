@@ -1,503 +1,970 @@
 {
-"Selected": 
-{
-"Id": "106",
-"Class": "TechReq",
-"Title": "Title: 106",
-"Detail": "Detail: 106",
-"Subject": "Device",
-"Category": "Function",
-  
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Demonstration"
-  }
-  ,
-"SwitchedAttribs":
-  {
-  "RCM":true, 
-  "Usability":false
-  }
-,
-  
-"ParentCount": 2,
-"ChildCount": 3,
-"Seq": 6
-}
-
-,
-  
-"Parents": 
-[
-{
-"Id": "102",
-"Class": "StakeholderReq",
-"Title": "Title: 102",
-"Detail": "Detail: 102",
-"Subject": "User",
-"Category": "Training",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Demonstration"
-  }
-  ,
-"SwitchedAttribs":
-{
- 
-}
-,
-"ParentCount": 0,
-"ChildCount": 2,
-"Seq": 2
-}
-,
-{
-"Id": "104",
-"Class": "TechReq",
-"Title": "Title: 104",
-"Detail": "Detail: 104",
-"Subject": "Device",
-"Category": "Environmental",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Demonstration"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":false, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 1,
-"Seq": 4
-}
-]
-, 
-
-"Children": 
-[
-{
-"Id": "110",
-"Class": "TechReq",
-"Title": "Title: 110",
-"Detail": "Detail: 110",
-"Subject": "Needle",
-"Category": "Durability",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Demonstration"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":false, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 0,
-"Seq": 10
-}
-,
-{
-"Id": "111",
-"Class": "TechReq",
-"Title": "Title: 111",
-"Detail": "Detail: 111",
-"Subject": "Needle",
-"Category": "Serviceability",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":false, 
-  "Usability":false
-}
-,
-"ParentCount": 1,
-"ChildCount": 0,
-"Seq": 11
-}
-,
-{
-"Id": "114",
-"Class": "TechReq",
-"Title": "Title: 114",
-"Detail": "Detail: 114",
-"Subject": "Needle",
-"Category": "Performance",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Test"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 0,
-"Seq": 14
-}
-]
-, 
-
-"PossibleParents": 
-[
-
-{
-"Id": "101",
-"Class": "StakeholderReq",
-"Title": "Title: 101",
-"Detail": "Detail: 101",
-"Subject": "User",
-"Category": "Unboxing",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": ""
-  }
-  ,
-"SwitchedAttribs":
-{
-}
-,
-"ParentCount": 0,
-"ChildCount": 2,
-"Seq": 1
-}
-,
-{
-"Id": "103",
-"Class": "StakeholderReq",
-"Title": "Title: 103",
-"Detail": "Detail: 103",
-"Subject": "MKT function",
-"Category": "Ease of use",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": ""
-  }
-  ,
-"SwitchedAttribs":
-{
-}
-,
-"ParentCount": 0,
-"ChildCount": 1,
-"Seq": 3
-}
-,
-{
-"Id": "105",
-"Class": "TechReq",
-"Title": "Title: 105",
-"Detail": "Detail: 105",
-"Subject": "Controller",
-"Category": "Serviceability",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Analysis"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 1,
-"Seq": 5
-}
-,
-{
-"Id": "107",
-"Class": "TechReq",
-"Title": "Title: 107",
-"Detail": "Detail: 107",
-"Subject": "Device",
-"Category": "Performance",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":false
-}
-,
-"ParentCount": 1,
-"ChildCount": 1,
-"Seq": 7
-}
-,
-{
-"Id": "108",
-"Class": "TechReq",
-"Title": "Title: 108",
-"Detail": "Detail: 108",
-"Subject": "Device",
-"Category": "Transportation",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":false, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 2,
-"Seq": 8
-}
-,
-{
-"Id": "109",
-"Class": "TechReq",
-"Title": "Title: 109",
-"Detail": "Detail: 109",
-"Subject": "Pod",
-"Category": "Transportation",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":false
-}
-,
-"ParentCount": 1,
-"ChildCount": 1,
-"Seq": 9
-}
-]
-, 
-
-"PossibleChildren": 
-[
-{
-"Id": "107",
-"Class": "TechReq",
-"Title": "Title: 107",
-"Detail": "Detail: 107",
-"Subject": "Device",
-"Category": "Performance",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":false
-}
-,
-"ParentCount": 1,
-"ChildCount": 1,
-"Seq": 7
-}
-,
-{
-"Id": "108",
-"Class": "TechReq",
-"Title": "Title: 108",
-"Detail": "Detail: 108",
-"Subject": "Device",
-"Category": "Transportation",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":false, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 2,
-"Seq": 8
-}
-,
-{
-"Id": "109",
-"Class": "TechReq",
-"Title": "Title: 109",
-"Detail": "Detail: 109",
-"Subject": "Pod",
-"Category": "Transportation",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":false
-}
-,
-"ParentCount": 1,
-"ChildCount": 1,
-"Seq": 9
-}
-,
-{
-"Id": "112",
-"Class": "TechReq",
-"Title": "Title: 112",
-"Detail": "Detail: 112",
-"Subject": "Pod",
-"Category": "Durability",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Inspection"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 0,
-"Seq": 12
-}
-,
-{
-"Id": "113",
-"Class": "TechReq",
-"Title": "Title: 113",
-"Detail": "Detail: 113",
-"Subject": "Needle",
-"Category": "Performance",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Test"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":false, 
-  "Usability":true
-}
-,
-"ParentCount": 1,
-"ChildCount": 0,
-"Seq": 13
-}
-,
-{
-"Id": "115",
-"Class": "TechReq",
-"Title": "Title: 115",
-"Detail": "Detail: 115",
-"Subject": "Pod",
-"Category": "Function",
-"ShortTextAttribs":
-  {
-  }
-  ,
-  "SelectedAttribs":
-  {
-  "VerificationMethod": "Analysis"
-  }
-  ,
-"SwitchedAttribs":
-{
-  "RCM":true, 
-  "Usability":false
-}
-,
-"ParentCount": 2,
-"ChildCount": 0,
-"Seq": 15
-}
-]
+   "Selected":{
+      "Class":"TechnicalReq",
+      "Id":"100",
+      "Seq":3,
+      "ParentCount":2,
+      "ChildCount":3,
+      "Subject":"Device",
+      "CommonProps":{
+         "Title":{
+            "Type":"FREE_TEXT",
+            "DisplayName":"Title",
+            "Value":"Technical requirement title text #3"
+         },
+         "Specification":{
+            "Type":"FREE_TEXT",
+            "DisplayName":"Specification",
+            "Value":"Technical requirement specification text #3"
+         },
+         "Comments":{
+            "Type":"FREE_TEXT",
+            "DisplayName":"Comments",
+            "Value":"Technical requirement comments text #3"
+         }
+      },
+      "StakeholderProps":{
+         
+      },
+      "TechnicalProps":{
+         "TechnicalCategory":{
+            "Type":"SELECT_TEXT",
+            "DisplayName":"Technical Category",
+            "Value":"Function"
+         },
+         "VerificationMethod":{
+            "Type":"SELECT_TEXT",
+            "DisplayName":"Verification Method",
+            "Value":"Demonstration"
+         },
+         "RCM":{
+            "Type":"TAG",
+            "DisplayName":"RCM",
+            "Value":false
+         },
+         "DesignControl":{
+            "Type":"TAG",
+            "DisplayName":"Design Control",
+            "Value":true
+         },
+         "Usability":{
+            "Type":"TAG",
+            "DisplayName":"Usability",
+            "Value":false
+         }
+      }
+   },
+   "Parents":[
+      {
+         "Class":"StakeholderReq",
+         "Id":"95",
+         "Seq":2,
+         "ParentCount":0,
+         "ChildCount":2,
+         "Subject":"User",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Stakeholder requirement title text #2"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Stakeholder requirement specification text #2"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Stakeholder requirement comments text #2"
+            }
+         },
+         "StakeholderProps":{
+            "Source":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Source",
+               "Value":"Stakeholder requirement source text #2"
+            },
+            "StakeholderCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Stakeholder Category",
+               "Value":"Training"
+            },
+            "UseErrorMitigation":{
+               "Type":"TAG",
+               "DisplayName":"Use Error Mitigation",
+               "Value":false
+            }
+         },
+         "TechnicalProps":{
+            
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"98",
+         "Seq":1,
+         "ParentCount":1,
+         "ChildCount":1,
+         "Subject":"Device",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #1"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #1"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #1"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Environmental"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Demonstration"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      }
+   ],
+   "Children":[
+      {
+         "Class":"TechnicalReq",
+         "Id":"104",
+         "Seq":7,
+         "ParentCount":1,
+         "ChildCount":0,
+         "Subject":"Needle",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #7"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #7"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #7"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Durability"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Demonstration"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":false
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":false
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"105",
+         "Seq":8,
+         "ParentCount":1,
+         "ChildCount":0,
+         "Subject":"Needle",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #8"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #8"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #8"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Serviceability"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":false
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"108",
+         "Seq":11,
+         "ParentCount":1,
+         "ChildCount":0,
+         "Subject":"Needle",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #11"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #11"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #11"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Performance"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Test"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":false
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      }
+   ],
+   "PossibleParents":[
+      {
+         "Class":"StakeholderReq",
+         "Id":"94",
+         "Seq":1,
+         "ParentCount":0,
+         "ChildCount":2,
+         "Subject":"User",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Stakeholder requirement title text #1"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Stakeholder requirement specification text #1"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Stakeholder requirement comments text #1"
+            }
+         },
+         "StakeholderProps":{
+            "Source":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Source",
+               "Value":"Stakeholder requirement source text #1"
+            },
+            "StakeholderCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Stakeholder Category",
+               "Value":"Unboxing"
+            },
+            "UseErrorMitigation":{
+               "Type":"TAG",
+               "DisplayName":"Use Error Mitigation",
+               "Value":true
+            }
+         },
+         "TechnicalProps":{
+            
+         }
+      },
+      {
+         "Class":"StakeholderReq",
+         "Id":"96",
+         "Seq":3,
+         "ParentCount":0,
+         "ChildCount":1,
+         "Subject":"Business",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Stakeholder requirement title text #3"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Stakeholder requirement specification text #3"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Stakeholder requirement comments text #3"
+            }
+         },
+         "StakeholderProps":{
+            "Source":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Source",
+               "Value":"Stakeholder requirement source text #3"
+            },
+            "StakeholderCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Stakeholder Category",
+               "Value":"Ease of use"
+            },
+            "UseErrorMitigation":{
+               "Type":"TAG",
+               "DisplayName":"Use Error Mitigation",
+               "Value":true
+            }
+         },
+         "TechnicalProps":{
+            
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"99",
+         "Seq":2,
+         "ParentCount":1,
+         "ChildCount":1,
+         "Subject":"Controller",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #2"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #2"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #2"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Serviceability"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Analysis"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":false
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"101",
+         "Seq":4,
+         "ParentCount":1,
+         "ChildCount":1,
+         "Subject":"Device",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #4"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #4"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #4"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Performance"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"102",
+         "Seq":5,
+         "ParentCount":1,
+         "ChildCount":2,
+         "Subject":"Device",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #5"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #5"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #5"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Transportation"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":false
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":false
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"103",
+         "Seq":6,
+         "ParentCount":1,
+         "ChildCount":1,
+         "Subject":"Pod",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #6"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #6"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #6"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Transportation"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      }
+   ],
+   "PossibleChildren":[
+      {
+         "Class":"TechnicalReq",
+         "Id":"101",
+         "Seq":4,
+         "ParentCount":1,
+         "ChildCount":1,
+         "Subject":"Device",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #4"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #4"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #4"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Performance"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"102",
+         "Seq":5,
+         "ParentCount":1,
+         "ChildCount":2,
+         "Subject":"Device",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #5"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #5"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #5"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Transportation"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":false
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":false
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"103",
+         "Seq":6,
+         "ParentCount":1,
+         "ChildCount":1,
+         "Subject":"Pod",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #6"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #6"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #6"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Transportation"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"106",
+         "Seq":9,
+         "ParentCount":1,
+         "ChildCount":0,
+         "Subject":"Pod",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #9"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #9"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #9"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Durability"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Inspection"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":false
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"107",
+         "Seq":10,
+         "ParentCount":1,
+         "ChildCount":0,
+         "Subject":"Needle",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #10"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #10"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #10"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Performance"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Test"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":true
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":false
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":true
+            }
+         }
+      },
+      {
+         "Class":"TechnicalReq",
+         "Id":"109",
+         "Seq":12,
+         "ParentCount":2,
+         "ChildCount":0,
+         "Subject":"Pod",
+         "CommonProps":{
+            "Title":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Title",
+               "Value":"Technical requirement title text #12"
+            },
+            "Specification":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Specification",
+               "Value":"Technical requirement specification text #12"
+            },
+            "Comments":{
+               "Type":"FREE_TEXT",
+               "DisplayName":"Comments",
+               "Value":"Technical requirement comments text #12"
+            }
+         },
+         "StakeholderProps":{
+            
+         },
+         "TechnicalProps":{
+            "TechnicalCategory":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Technical Category",
+               "Value":"Function"
+            },
+            "VerificationMethod":{
+               "Type":"SELECT_TEXT",
+               "DisplayName":"Verification Method",
+               "Value":"Analysis"
+            },
+            "RCM":{
+               "Type":"TAG",
+               "DisplayName":"RCM",
+               "Value":false
+            },
+            "DesignControl":{
+               "Type":"TAG",
+               "DisplayName":"Design Control",
+               "Value":true
+            },
+            "Usability":{
+               "Type":"TAG",
+               "DisplayName":"Usability",
+               "Value":false
+            }
+         }
+      }
+   ]
 }
